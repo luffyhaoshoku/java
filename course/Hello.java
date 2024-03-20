@@ -11,7 +11,12 @@ class Hello
         float f = 5.8f;
         double d = 5.8;
 
+
         boolean b = true;
+
+        char k = 'k';
+
+        System.out.println(k);
 
         
     }
